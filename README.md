@@ -1,2 +1,3 @@
 # tech-demo
-my first repository
+my first repository.
+author - shaurya singh
